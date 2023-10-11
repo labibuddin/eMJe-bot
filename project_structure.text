@@ -1,0 +1,27 @@
+website_eMJe/
+|-- css
+|   |- all.min.css
+|   |- animations.min.css
+|   |- css.css
+|   |- css_1.css
+|   |- frontend-legacy.min.css
+|   |- .................
+|-- fonts
+|   |- 1Ptsg8zYS_SKggPNyCg4Q4FqL_KWxWMT.woff2
+|   |- 1Ptsg8zYS_SKggPNyCg4QIFqL_KWxWMT.woff2
+|   |- 1Ptsg8zYS_SKggPNyCg4TYFqL_KWxQ.woff2
+|   |- 1Ptug8zYS_SKggPNyC0IT4ttDfA.woff2
+|   |- ..................
+|-- images
+|   |- cropped-masjidjogokariyan1-32x32-1.png
+|   |- kajian-1.jpg
+|   |- killer-image-2-resize-1-1-1024x586.jpg
+|-- index.html
+|-- js
+|   |- back-to-top.min.js
+|   |- fbevents.js
+|   |- frontend-modules.min.js
+|   |- frontend.min.js
+|   |- jquery-migrate.min.js
+|   |- jquery.min.js
+|   |- .................
